@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate ... on cool projects that help, inspire or entertain people
 - 📫 How to reach me ... via email at: z06zuupqy@relay.firefox.com
 
-- This account is currently inactive as I mainly work on my selfhosted Gitlab now.
+<!--- - This account is currently inactive as I mainly work on my selfhosted Gitlab now. --->
 
 <!---
 flo-kei/flo-kei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
