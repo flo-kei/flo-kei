@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flo-kei
 - 👀 I’m interested in ... all kinds of software
-- 🌱 I’m currently learning ... about Jetpack-Compose, Quarkus, Machine-Learning, React
+- 🌱 I’m currently learning ... about Flutter, Machine-Learning, React
 - 💞️ I’m looking to collaborate ... on cool projects that help, inspire or entertain people
 - 📫 How to reach me ... via email at: z06zuupqy@relay.firefox.com
 
