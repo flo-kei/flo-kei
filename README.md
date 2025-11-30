@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... all kinds of software
 - 🌱 I’m currently learning ... about Flutter, Machine-Learning, React
 - 💞️ I’m looking to collaborate ... on cool projects that help, inspire or entertain people
-- 📫 How to reach me ... via email at: z06zuupqy@relay.firefox.com
+- 📫 How to reach me ... via email at: dev@flokei.at
 
 <!--- - This account is currently inactive as I mainly work on my selfhosted Gitlab now. --->
 
