@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @flo-kei
-- 👀 I’m interested in ... all kinds of software
-- 🌱 I’m currently learning ... about Flutter, Machine-Learning, React
-- 💞️ I’m looking to collaborate ... on cool projects that help, inspire or entertain people
-- 📫 How to reach me ... via email at: dev@flokei.at
+Hi, I'm Florian! 👋
 
-<!--- - This account is currently inactive as I mainly work on my selfhosted Gitlab now. --->
+I'm a student at JKU Linz, passionate about software development and AI.
 
-<!---
-flo-kei/flo-kei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Currently working with:** Flutter, Machine Learning, React  
+**Interested in:** Building projects that help, inspire, or entertain people
+
+📫 Reach me at: dev@flokei.at
